@@ -10,13 +10,13 @@ how to use
 ---
 
 ### 1. database create ###
-'
+`
   rake db:migrate
-'
+`
 ### 2. execute ###
-'
+`
   rails s
-'  
+`  
 > http://localhost:3000/admin
 
 ### 3. login account ###
