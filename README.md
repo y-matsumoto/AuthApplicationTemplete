@@ -16,6 +16,8 @@ how to use
 ### 2. execute ###
 
   rails s
+  
+> http://localhost:3000/admin
 
 ### 3. login account ###
 
