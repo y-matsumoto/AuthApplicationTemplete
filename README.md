@@ -1,3 +1,11 @@
+environment
+---
+
+ruby 2.2.1p85
+
+Rails 4.1.4
+
+
 how to use
 ---
 
