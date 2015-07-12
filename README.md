@@ -11,6 +11,5 @@ how to use
 
 ### 3. login account ###
 
-mail:test@test.com
-
-password:password
+> mail:test@test.com
+> password:password
